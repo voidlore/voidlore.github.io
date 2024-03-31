@@ -1,0 +1,19 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+header {
+  background-color: #f0dfc8;
+  overflow: hidden;
+}
+
+#logo {
+  width: 192px;
+  height: auto;
+  float: left;
+  margin: 19px;
+}
